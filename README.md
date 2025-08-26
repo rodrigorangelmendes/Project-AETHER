@@ -12,7 +12,7 @@ As an IT recruitment professional, I've observed how language can unintentionall
 - **Suggestions:** Provides alternative, neutral wording for flagged terms.
 
 ## Methodology
-1. **Data Collection:** Over 1,000 IT job descriptions were gathered from public sources.
+1. **Data Collection:** Over 4,000 IT job descriptions were gathered from public sources.
 2. **Analysis:** Conducted in a Jupyter Notebook using Python, Pandas, and Matplotlib.
 3. **Rule-Based Scoring:** Developed a heuristic model based on known bias lexicons and linguistic patterns.
 4. **Validation:** Findings were reviewed against established research on bias in hiring.
@@ -36,4 +36,4 @@ As an IT recruitment professional, I've observed how language can unintentionall
    jupyter notebook notebooks/01_bias_analysis.ipynb
 4. **Or use the standalone scorer:**
    ```bash
-python scripts/bias_scorer.py --text "Your job description text here"
+   python scripts/bias_scorer.py --text "Your job description text here"
