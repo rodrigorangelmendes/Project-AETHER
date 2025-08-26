@@ -18,23 +18,23 @@ As an IT recruitment professional, I've observed how language can unintentionall
 4. **Validation:** Findings were reviewed against established research on bias in hiring.
 
 ## Repository Structure
-Project-AETHER/
-│
-├── data/
-│   └── sample_job_descriptions.csv
-│
-├── notebooks/
-│   └── 01_bias_analysis.ipynb
-│
-├── scripts/
-│   └── bias_scorer.py
-│
-├── guidelines/
-│   └── INCLUSIVE_LANGUAGE_GUIDELINES.md
-│
-├── .gitignore
-├── LICENSE
-└── README.md
+Project-AETHER/ 
+│ 
+├── data/ 
+│   └── sample_job_descriptions.csv 
+│ 
+├── notebooks/ 
+│   └── 01_bias_analysis.ipynb 
+│ 
+├── scripts/ 
+│   └── bias_scorer.py 
+│ 
+├── guidelines/ 
+│   └── INCLUSIVE_LANGUAGE_GUIDELINES.md 
+│ 
+├── .gitignore 
+├── LICENSE 
+└── README.md 
 
 ## Tools Used
 - **Python** (Pandas, Matplotlib, NLTK)
