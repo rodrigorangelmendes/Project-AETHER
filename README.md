@@ -19,14 +19,19 @@ As an IT recruitment professional, I've observed how language can unintentionall
 
 ## Repository Structure
 Project-AETHER/
+│
 ├── data/
-│   └── sample_job_descriptions.csv  # Anonymized sample dataset
+│   └── sample_job_descriptions.csv
+│
 ├── notebooks/
-│   └── 01_bias_analysis.ipynb      # Main analysis notebook
+│   └── 01_bias_analysis.ipynb
+│
 ├── scripts/
-│   └── bias_scorer.py              # Script to score new job descriptions
+│   └── bias_scorer.py
+│
 ├── guidelines/
-│   └── INCLUSIVE_LANGUAGE_GUIDELINES.md  # Best practices summary
+│   └── INCLUSIVE_LANGUAGE_GUIDELINES.md
+│
 ├── .gitignore
 ├── LICENSE
 └── README.md
