@@ -1,4 +1,4 @@
-# Project AETHER: Bias-Mitigation Analysis for IT Job Descriptions
+# AETHER: Bias-Mitigation Analysis for IT Job Descriptions
 
 ## Overview
 This self-directed research project explores linguistic bias in IT job descriptions using Natural Language Processing (NLP) techniques. The goal is to provide a data-driven framework and practical tools for creating more inclusive hiring materials.
