@@ -18,12 +18,13 @@ As an IT recruitment professional, I've observed how language can unintentionall
 4. **Validation:** Findings were reviewed against established research on bias in hiring.
 
 ## Repository Structure
+Project-AETHER/
 ├── data/
 │   └── sample_job_descriptions.csv  # Anonymized sample dataset
 ├── notebooks/
-│   └── 01_bias_analysis.ipynb       # Main analysis notebook
+│   └── 01_bias_analysis.ipynb      # Main analysis notebook
 ├── scripts/
-│   └── bias_scorer.py               # Script to score new job descriptions
+│   └── bias_scorer.py              # Script to score new job descriptions
 ├── guidelines/
 │   └── INCLUSIVE_LANGUAGE_GUIDELINES.md  # Best practices summary
 ├── .gitignore
