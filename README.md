@@ -24,8 +24,16 @@ As an IT recruitment professional, I've observed how language can unintentionall
 - **ChatGPT/GPT-4** for research and conceptual guidance
 
 ## How to Use
-1. Clone the repo:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/rodrigorangelmendes/Project-AETHER.git
-2. Open the Jupyter Notebook notebooks/01_bias_analysis.ipynb to see the full analysis.
-3. Use the scripts/bias_scorer.py script to evaluate your own job descriptions.
+   cd Project-AETHER 
+2. **Install dependencies:**
+   ```bash
+   pip install pandas matplotlib nltk jupyter
+3. **Run the analysis notebook:**
+   ```bash
+   jupyter notebook notebooks/01_bias_analysis.ipynb
+4. **Or use the standalone scorer:**
+   ```bash
+python scripts/bias_scorer.py --text "Your job description text here"
