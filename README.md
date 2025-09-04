@@ -17,7 +17,7 @@
 ---
 
 ## 🔹 Project Structure
-
+```
 Project-AETHER/
 │
 ├── scripts/ # Main scripts
@@ -32,7 +32,7 @@ Project-AETHER/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
+```
 ---
 
 ## 🔹 Installation
